@@ -26,6 +26,6 @@
     ```
 
 
-### Project Snapshot\
+### Project Snapshot
 
-![proj-1](assets/expense-img-1.png)
+![proj-1](Assets/expense-img-1.png)
